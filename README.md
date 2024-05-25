@@ -20,24 +20,7 @@ This chat application allows users to communicate in real-time. It supports broa
 - Nicknames support
 - "User is typing" notification
 - Live user status updates
-- Stunning UI
-
-## Project Structure
-/chat-app
-│
-├── /public
-│ ├── styles.css 
-│ ├── script.js 
-│ └── output.png
-│ └── chatting.png 
-│ └── disconnect.png 
-│
-├── /views
-│ └── index.html 
-│
-├── index.js 
-├── package.json
-└── README.md 
+- Stunning UI 
 
 ## How to Run the Project
 
@@ -93,4 +76,3 @@ io.on("connection", (socket) => {
         socket.broadcast.emit("message", data);
     });
 });
-
