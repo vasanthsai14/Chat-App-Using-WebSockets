@@ -4,13 +4,13 @@ This chat application allows users to communicate in real-time. It supports broa
 
 ## Screenshots
 
-### [Output Screenshot](public/output.png)
+### Output Screenshot
 ![Output Screenshot](public/output.png)
 
-### [Users can chat in real-time](public/chatting.png)
+### Users can chat in real-time
 ![Chatting Screenshot](public/chatting.png)
 
-### [User can exit the room/chat](public/disconnect.png)
+### User can exit the room/chat
 ![Disconnect Screenshot](public/disconnect.png)
 
 ## Features
